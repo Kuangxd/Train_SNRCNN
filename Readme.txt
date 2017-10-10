@@ -26,4 +26,5 @@ Usage:
 
 4. After training, you can extract parameters from the caffe model and save them in the format that can be used in our test package (SNRCNN_Matlab). To do this, you need to install mat-caffe first, then open MATLAB and direct to ($Caffe_Dir) and run "saveFilters.m". The "($Caffe_Dir)/examples/SNRCNN/x1.mat" will be there for you.
 
-If you have any questions, please contact with me (1007642157@qq.com)
+## Contact with me
+If you have any questions, please contact with me. (1007642157@qq.com)
